@@ -14,6 +14,6 @@ pip install -r requirements.txt
 # Usage
 Run the script from your terminal:
 ```bash
-python main.py
+python3 main.py
 ```
 Then enter the number of TikTok coins when prompted (for example, 5000) to view the earnings breakdown in USD and IQD.
