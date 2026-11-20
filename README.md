@@ -4,7 +4,7 @@ A Python tool designed to calculate net TikTok coin earnings for content creator
 
 Clone the repository:
    ```bash
-   git clone [https://github.com/iqtnt/tiktok-iqd-earnings-calculator.git](https://github.com/iqtnt/tiktok-iqd-earnings-calculator.git)
+   git clone https://github.com/iqtnt/tiktok-iqd-earnings-calculator.git
    cd tiktok-iqd-earnings-calculator
    ```
 Install the required dependencies:
