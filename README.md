@@ -13,7 +13,7 @@ Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-#Usage
+# Usage
 Run the script from your terminal:
 ```bash
   python main.py
