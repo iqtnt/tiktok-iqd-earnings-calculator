@@ -4,16 +4,16 @@ A Python tool designed to calculate net TikTok coin earnings for content creator
 
 Clone the repository:
    ```bash
-   git clone https://github.com/iqtnt/tiktok-iqd-earnings-calculator
-   cd tiktok-iqd-earnings-calculator
-   ```
+git clone https://github.com/iqtnt/tiktok-iqd-earnings-calculator
+cd tiktok-iqd-earnings-calculator
+```
 Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
-   ```
+pip install -r requirements.txt
+```
 # Usage
 Run the script from your terminal:
 ```bash
-  python main.py
-   ```
+python main.py
+```
 Then enter the number of TikTok coins when prompted (for example, 5000) to view the earnings breakdown in USD and IQD.
