@@ -9,8 +9,13 @@ Clone the repository:
    git clone [https://github.com/iqtnt/tiktok-iqd-earnings-calculator.git](https://github.com/iqtnt/tiktok-iqd-earnings-calculator.git)
    cd tiktok-iqd-earnings-calculator
    ```
-## Install the required dependencies:
+Install the required dependencies:
    ```bash
    pip install -r requirements.txt
+   ```
+#Usage
+Run the script from your terminal:
+```bash
+  python main.py
    ```
 
